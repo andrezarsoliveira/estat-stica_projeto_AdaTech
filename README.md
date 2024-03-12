@@ -35,6 +35,7 @@ Repositório dedicado ao projeto final do módulo 6 - Estatística - do programa
 
 ## Dataset Utilizado
 O dataset utilizado foi encontrado na plataforma Kaggle, trata sobre  casos de osteoporose. 
+https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-osteoporosis
 
 
 ## Insights
