@@ -41,7 +41,12 @@ https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-oste
 
 
 ## Insights
-
+- Análise Preliminar;
+- Análise Exploratória;
+- Análise Estatística;
+- Visualização de Dados;
+- Interpretação e Implicações;
+- Limitações e Considerações.
 
 
 ## Metodologia
@@ -53,7 +58,12 @@ Foi utilizada a plataforma Kaggle para selecionar um conjunto de dados sobre ost
 
 ## Conclusão
 
-A osteoporose é uma doença caracterizada por ossos frágeis e quebradiços, aumentando o risco de fraturas. A idade é o principal fator de risco, pois a massa óssea diminui naturalmente com o tempo. Outros fatores como tabagismo e alcoolismo também contribuem para a osteoporose. Para prevenir a doença, é fundamental ter um estilo de vida saudável, com dieta rica em cálcio e vitamina D; exercícios físicos regulares e evitar quedas.
+A osteoporose é uma doença caracterizada por ossos frágeis e quebradiços, aumentando o risco de fraturas. A idade é o principal fator de risco, pois a massa óssea diminui naturalmente com o tempo. Outros fatores como tabagismo e alcoolismo também contribuem para a osteoporose. Para prevenir a doença, é fundamental ter:
+- Alimentação saudável, investir em cálcio e vitamina como laticínios, folhas verdes escuras e tofu. Fontes de vitamina D: peixes gordurosos, ovos , leite enriquecido, luz solar ( em quantidade necessária);
+- Exercício físico regular: Atividades com impacto, como caminhada, corrida, dança e treinamento de força. Além da manutenção de peso saudável já que o sobrepeso ou a obesidade aumentam o risco de osteoporose;
+- Não fumar e limitação do consumo de álcool;
+- Analisa histórico familiar de osteoporose ou uso de medicamentos específicos que podem aumentar o risco da doença;
+
 Além disso é de suma importância consultar um médico regularmente é essencial para avaliar o risco de osteoporose e receber orientação sobre medidas de prevenção e tratamento. Uma vida saudável é fundamental para prevenir a osteoporose e manter a saúde óssea em todas as idades.
 
 
