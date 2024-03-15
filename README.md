@@ -41,7 +41,11 @@ https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-oste
 
 
 ## Insights
-
+- Desenvolver modelos de aprendizado de máquina para prever a probabilidade de osteoporose com base nas características fornecidas;
+- Determinar a importância de cada característica na previsão do risco de osteoporose;
+- Examinar correlações entre diferentes características e risco de osteoporose;
+- Analisar como o risco de osteoporose varia em diferentes subgrupos com base em características demográficas, fatores de estilo de vida ou histórico médico;
+- Interpretar os modelos treinados para entender como diferentes características contribuem para a previsão do risco de osteoporose.
 
 
 ## Metodologia
@@ -69,5 +73,5 @@ Foi utilizada a plataforma Kaggle para selecionar um conjunto de dados sobre ost
 
 
 <p align="center"> 
-<img width="590" align="center" alt="Metodologia" src="osteoporose-em-idosos_1308-131425.jpg">
+<img width="450" align="center" alt="Metodologia" src="osteoporose-em-idosos_1308-131425.jpg">
 </p> 
