@@ -41,6 +41,11 @@ https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-oste
 
 
 ## Insights
+
+
+
+## Metodologia
+Foi utilizada a plataforma Kaggle para selecionar um conjunto de dados sobre osteoporose. Posteriormente o uso do Google Colab e da linguagem Python foram utilizados para realizar a análise, além de modelos estatísticos. Abaixo contém o passo a passo de como o projeto foi explorado:
 - Análise Preliminar;
 - Análise Exploratória;
 - Análise Estatística;
@@ -49,16 +54,12 @@ https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-oste
 - Limitações e Considerações.
 
 
-## Metodologia
-Foi utilizada a plataforma Kaggle para selecionar um conjunto de dados sobre osteoporose. Posteriormente o uso do Google Colab e da linguagem Python foram utilizados para realizar a análise, além de modelos estatísticos.
-
-
 
 
 
 ## Conclusão
 
-A osteoporose é uma doença caracterizada por ossos frágeis e quebradiços, aumentando o risco de fraturas. A idade é o principal fator de risco, pois a massa óssea diminui naturalmente com o tempo. Outros fatores como tabagismo e alcoolismo também contribuem para a osteoporose. Para prevenir a doença, é fundamental ter:
+ Para prevenir a osteoporose, é fundamental ter:
 - Alimentação saudável, investir em cálcio e vitamina como laticínios, folhas verdes escuras e tofu. Fontes de vitamina D: peixes gordurosos, ovos , leite enriquecido, luz solar ( em quantidade necessária);
 - Exercício físico regular: Atividades com impacto, como caminhada, corrida, dança e treinamento de força. Além da manutenção de peso saudável já que o sobrepeso ou a obesidade aumentam o risco de osteoporose;
 - Não fumar e limitação do consumo de álcool;
