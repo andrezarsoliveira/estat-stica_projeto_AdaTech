@@ -60,12 +60,12 @@ Foi utilizada a plataforma Kaggle para selecionar um conjunto de dados sobre ost
 ## Conclusão
 
  Para prevenir a osteoporose, é fundamental ter:
-- Alimentação saudável, investir em cálcio e vitamina como laticínios, folhas verdes escuras e tofu. Fontes de vitamina D: peixes gordurosos, ovos , leite enriquecido, luz solar ( em quantidade necessária);
+- Alimentação saudável, investir em cálcio com laticínios, folhas verdes escuras e tofu. Assim também alimentos fontes de vitamina D como peixes gordurosos, ovos , leite enriquecido, luz solar ( em quantidade necessária);
 - Exercício físico regular: Atividades com impacto, como caminhada, corrida, dança e treinamento de força. Além da manutenção de peso saudável já que o sobrepeso ou a obesidade aumentam o risco de osteoporose;
 - Não fumar e limitação do consumo de álcool;
-- Analisa histórico familiar de osteoporose ou uso de medicamentos específicos que podem aumentar o risco da doença;
+- Analisar o histórico familiar de osteoporose e/ou uso de medicamentos específicos que podem aumentar o risco da doença;
 
-Além disso é de suma importância consultar um médico regularmente é essencial para avaliar o risco de osteoporose e receber orientação sobre medidas de prevenção e tratamento. Uma vida saudável é fundamental para prevenir a osteoporose e manter a saúde óssea em todas as idades.
+É de suma importância consultar um médico regularmente, é essencial para avaliar o risco de osteoporose e receber orientação sobre medidas de prevenção e tratamento. Uma vida saudável é fundamental para prevenir a osteoporose e manter a saúde óssea em todas as idades.
 
 
 <p align="center"> 
