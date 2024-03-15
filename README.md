@@ -38,6 +38,9 @@ Analisar fatores como idade, gênero, mudanças hormonais e hábitos de vida pod
 ## Dataset Utilizado
 O dataset utilizado foi encontrado na plataforma Kaggle, trata sobre  casos de osteoporose. 
 https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-osteoporosis
+<p align="center"> 
+<img width="850" align="center" alt="Metodologia" src="datasetosteoporose.jpeg">
+</p> 
 
 
 ## Insights
