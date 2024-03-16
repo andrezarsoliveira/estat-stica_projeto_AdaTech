@@ -1,4 +1,4 @@
-# estatistica_projeto_AdaTech
+# Projeto Estatística Ada Tech
 ## 
 Repositório dedicado ao projeto final do módulo 6 - Estatística - do programa **Vem Ser Tech - Dados**
 
